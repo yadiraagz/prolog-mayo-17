@@ -1,0 +1,1 @@
+suma(Num1,Num2,Resultado):-Resultado is Num1 + Num2.
